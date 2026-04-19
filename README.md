@@ -13,3 +13,5 @@
  ███████║██║ ╚═╝ ██║██║   ██║   ██║  ██║
  ╚══════╝╚═╝     ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝
 ```
+
+![Funny joke of Ralph Wiggum using Claude Code](./smrt.png)
